@@ -2,6 +2,9 @@
 I am a personal developer, Youli, and a network security enthusiast, caicaicaiooh
 <image class="float: right" src="https://s2.loli.net/2023/03/22/1lWXB9xG8yvRahi.gif"></image>
 
+## My Three.js project history 😎
+- [House😱](https://newstart0514.github.io/ghostHouse/)
+
 ## About me
 I'm from Shaoguan, Guangdong Province, the People's Republic of China
 
